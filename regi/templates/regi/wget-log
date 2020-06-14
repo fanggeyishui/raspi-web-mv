@@ -1,0 +1,11 @@
+--2020-05-14 14:00:43--  https://api.bilibili.com/x/web-interface/dynamic/region?ps=12
+Resolving api.bilibili.com (api.bilibili.com)... 120.92.174.135, 120.92.218.109, 120.92.141.155, ...
+Connecting to api.bilibili.com (api.bilibili.com)|120.92.174.135|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46 [application/json]
+Saving to: ‘region?ps=12’
+
+region?ps=12          0%[                    ]       0  --.-KB/s               region?ps=12        100%[===================>]      46  --.-KB/s    in 0s      
+
+2020-05-14 14:00:43 (9.42 MB/s) - ‘region?ps=12’ saved [46/46]
+
