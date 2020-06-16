@@ -23,3 +23,14 @@
   while 1:
           print('cmd')
           sleep(2)
+
+
+
+
+
+200616问题方法总结
+
+获取当前网址window.location.href
+由于浏览器相同url会存在缓存，因此每次视频应传递一个不同的url
+vedio标签id可以拿来直接指代vedio对象？
+摄像头要牢固不然会断开
